@@ -27,4 +27,4 @@
 ![kode eksekusi](https://user-images.githubusercontent.com/109432905/211826898-fcf86521-6970-4b66-8d19-853ab0eb8379.png)
 
 
-
+link video dokumentasi UAS OOP : https://youtu.be/zfsKe6NHfl0
